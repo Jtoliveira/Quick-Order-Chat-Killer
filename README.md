@@ -12,4 +12,4 @@ The file you want is spam_exe.exe and it works in three steps:
 
 Based on this youtube video: https://www.youtube.com/watch?v=jBxRGcDmfWA
 
-Thanks to: [my homie David] (https://github.com/DavidmMar) and my girldfriend Ana for testing the bot; [my homie Rafael](https://github.com/RafaelCS-Aula) for showing me the video and coming up with a name for the thing 
+Thanks to: [my homie David](https://github.com/DavidmMar) and my girldfriend Ana for testing the bot; [my homie Rafael](https://github.com/RafaelCS-Aula) for showing me the video and coming up with a name for the thing 
