@@ -2,6 +2,16 @@
 
 This is a very simple bot written in Python that spams any window on your computer with a custom message (works best on messaging apps).
 
+The repo consists of the following files: 
+
+- marine.txt: a text file with the marine copypasta i used to test the script
+
+- spam.py: the script itself, but within a loop so it's easier to spam people
+
+- spam_exe.py: source code of the executable
+
+- spam_exe.exe: the final product
+
 The file you want is spam_exe.exe and it works in three steps:
 
 1. Input in the first field the text you want to spam (no character limit, i think)
